@@ -30,7 +30,7 @@ The Rock Paper Scissors Game offers an interactive environment for players to en
 
 ## Live Demo
 
-Play the Rock Paper Scissors Game [here](#).
+Play the Rock Paper Scissors Game [here](https://rock-paper-scissors-game-plum.vercel.app/).
 
 ## Contributing
 
