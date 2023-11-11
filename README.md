@@ -18,7 +18,7 @@ The Rock Paper Scissors Game offers an interactive environment for players to en
 
 ## How to Play
 
-1. Open the `index.html` file in a web browser.
+1. Open the [Live Demo](#live-demo) file in a web browser.
 2. Choose your move by clicking on either rock, paper, or scissors buttons.
 3. The result will be displayed, and the scores for the player and the computer will be updated accordingly.
 
